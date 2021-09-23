@@ -15,7 +15,7 @@
 ## Overview 👀
 <img src="images/video-chat.jpg">
 
-- Real time video chat 📹 with Peer or any other user 
+- Real time video chat 📹 with user 
 - Clean UI ⚡
 
 ## What is Video Chatting Web App? 🤔
