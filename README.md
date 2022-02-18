@@ -12,7 +12,7 @@
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/Video-Chat-Web-app)
 
 ## Overview 👀
-<img src="images/video-chat.jpg">
+<img src="images/videochat5.jpg">
 
 - Real time video chat 📹 with user 
 - Clean UI ⚡
@@ -23,7 +23,7 @@
 
 
 ## How it works? 🤔
-- **Open the website [https://peercoder-videochat.netlify.app/](https://peercoder-videochat.netlify.app/)**
+- **Open the website [https://peercodervideochatapp.netlify.app/](https://peercodervideochatapp.netlify.app/)**
 - **For Video Chat, user just need to copy a unique id and send it to user with whom he/she want to chat.**
 
 ## Dependencies 🗃
