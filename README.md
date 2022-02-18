@@ -1,4 +1,4 @@
-# [Video-Chat-Web-App](https://peercoder-videochat.netlify.app/) ⭐
+# [Video-Chat-Web-App](https://peercodervideochatapp.netlify.app/) ⭐
 
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
@@ -8,7 +8,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://peercoder-videochat.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://peercodervideochatapp.netlify.app/)
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/Video-Chat-Web-app)
 
 ## Overview 👀
