@@ -1,4 +1,4 @@
-# [Video-Chat-Web-App](https://peercodervideochatapp.netlify.app/) ⭐
+# [Video-Chat-Web-app](https://peercodervideochatapp.netlify.app/) ⭐
 
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
@@ -17,7 +17,7 @@
 - Real time video chat 📹 with user 
 - Clean UI ⚡
 
-## What is Video Chatting Web App? 🤔
+## What is Video Chatting Web app? 🤔
 
 #### This is basically a video chatting web app whose front end is purely made with React.js while the back end is completely framed by using socket.io with node.js and express.js as server.
 
